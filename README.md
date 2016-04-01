@@ -1,8 +1,14 @@
-# probedock-uuid-maven-plugin
+# DEPRACATED
+
+## probedock-uuid-maven-plugin
 
 > A plugin to generate a unique report id for Probe Dock.
 
+**If you need a plugin that take care to generate a Test Report UID and that avoid overriding env var PROBEDOCK_TEST_REPORT_UID, take a look to this plugin: https://github.com/probedock/probedock-uid-maven-plugin**
+
 ## Usage
+
+**depracted**
 
 1. Put the following dependency in your pom.xml
 
